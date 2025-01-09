@@ -22,7 +22,7 @@ This project forecasts Bitcoin prices in USD using ARIMA for trend modeling and 
   
 ## Results
 - **ARIMA-GARCH vs ARIMA:** ARIMA-ARCH provides narrower, more precise forecast intervals.
-- **Model Accuracy:** 5% forecast failures, consistent with a 95% prediction interval.
+- **Model Accuracy:** 5.63% forecast failures, consistent with a 95% prediction interval.
 
 ## Plot
 Below is the plot of the historical Bitcoin prices along with the ARIMA-ARCH one-step ahead 95% forecast intervals.
