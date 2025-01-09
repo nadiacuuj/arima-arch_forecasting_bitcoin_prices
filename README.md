@@ -30,7 +30,7 @@ Error Analysis: A normal probability plot of residuals shows deviations from nor
 - **Volatility and Prediction:** The model effectively captures periods of heightened volatility but may overfit to specific periods, limiting its ability to generalize.
 
 ## Model Evaluation
-- **Failures:** 159 instances where the 95% forecast interval did not contain the actual value, resulting in a failure rate of approximately 5%.
+**Failures:** 159 instances where the 95% forecast interval did not contain the actual value, resulting in a failure rate of approximately 5%.
 
 ## Conclusion
 This model provides a robust framework for forecasting Bitcoin prices while accounting for volatility. However, further improvements may be made by exploring alternative models such as GARCH or adjusting for non-normal error distributions.
