@@ -1,6 +1,6 @@
 # ARIMA-ARCH Bitcoin Price Forecasting
 
-This project forecasts Bitcoin prices in USD using ARIMA for trend modeling and ARCH for volatility, leveraging daily data sourced from Kaggle.
+This project forecasts Bitcoin prices in US$ using ARIMA for trend modeling and ARCH for volatility, leveraging daily data sourced from Kaggle.
 
 ## Overview
 - **Objective:** Predict Bitcoin prices, incorporating volatility.
