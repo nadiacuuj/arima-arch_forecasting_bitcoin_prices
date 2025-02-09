@@ -27,4 +27,4 @@ This project forecasts Bitcoin prices in US$ using ARIMA for trend modeling and 
 ## Plot
 Below is the plot of the historical Bitcoin prices along with the ARIMA-ARCH one-step ahead 95% forecast intervals.
 
-![Bitcoin price forecast](forecasted_plot.JPG)
+![forecasted_plot](https://github.com/user-attachments/assets/651bbfcc-4714-4c58-8b0c-de46ee1f9343)
